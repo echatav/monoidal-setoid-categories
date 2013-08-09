@@ -1,6 +1,6 @@
 # monoidal-setoid-categories #
 
-A formalization of monoidal e-categories and e-categories-with-families (e-CWFS) in Agda
+A formalization of monoidal e-categories and e-categories-with-families (e-CWFs) in Agda
 
 ## Purpose ##
 
