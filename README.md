@@ -1,4 +1,4 @@
-# internal-categories-experiment-01 #
+# monoidal-setoid-categories #
 
 A formalization of monoidal e-categories and e-categories with families in Agda
 
